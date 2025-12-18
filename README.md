@@ -1,2 +1,1 @@
-nom : Bellili
-prénom : Alaeddine
+Bellili Alaeddine
